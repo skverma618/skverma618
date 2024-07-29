@@ -2,14 +2,14 @@
 
 I'm a passionate Fullstack Developer from India, currently working remotely at [Ionio](https://www.ionio.com). With 3 years of experience, I specialize in building scalable systems and deploying applications using Docker and AWS. My journey in tech has led me to explore the fascinating world of AI models, and I'm always on the lookout for exciting new challenges!
 
+🌐 I'm actively looking for remote opportunities where I can contribute my skills and continue to grow. If you're searching for a dedicated and skilled developer, feel free to reach out!
+
 ## 🚀 What I Do
 - **💡 Fullstack Development:** Building robust and scalable web applications.
 - **🤖 AI Enthusiast:** Experimenting with and integrating AI models into projects.
 - **🔧 System Design:** Crafting efficient system architectures for high-performance apps.
 - **🚀 DevOps:** Deploying and managing applications with Docker and AWS.
 
-## 🌐 Seeking New Opportunities
-I'm actively looking for remote opportunities where I can contribute my skills and continue to grow. If you're searching for a dedicated and skilled developer who loves to learn and innovate, feel free to reach out!
 
 ## 🎯 Current Focus
 - **Scalable Systems:** Designing and optimizing systems to handle large-scale traffic and data.
