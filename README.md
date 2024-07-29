@@ -27,7 +27,7 @@ I'm a passionate Fullstack Developer from India, currently working remotely at [
 ## 📬 Let's Connect!
 I'm always excited to connect with like-minded professionals and explore new opportunities. Whether you have a question, an idea, or just want to say hi, feel free to get in touch!
 
-- **Email:** [sushilkumarskp618@gmail.com](mailto:sushilkumarskp618@gmail.com)
+- **Email:** [sushilkumarofficial618@gmail.com](mailto:sushilkumarofficial618@gmail.com)
 - **LinkedIn:** [linkedin.com/in/skverma618](https://www.linkedin.com/in/skverma618/)
 
 Cheers ✨ ✨
