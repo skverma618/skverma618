@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sushil Kumar!
 
-I'm a passionate Fullstack Developer from India, currently working remotely at [Ionio](https://www.ionio.com). With 3 years of experience, I specialize in building scalable systems and deploying applications using Docker and AWS. My journey in tech has led me to explore the fascinating world of AI models, and I'm always on the lookout for exciting new challenges!
+I'm a passionate Fullstack Developer from India, currently working remotely at [Ionio](https://www.ionio.ai/). With 3 years of experience, I specialize in building scalable systems and deploying applications using Docker and AWS. My journey in tech has led me to explore the fascinating world of AI models, and I'm always on the lookout for exciting new challenges!
 
 🌐 I'm actively looking for remote opportunities where I can contribute my skills and continue to grow. If you're searching for a dedicated and skilled developer, feel free to reach out!
 
